@@ -1,0 +1,1 @@
+Change either resistor value to lengthen/shorten charge time.
